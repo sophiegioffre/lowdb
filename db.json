@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item": "bottle of water",
+      "description": "this is a bottle of water",
+      "price": 1
+    }
+  ]
+}
